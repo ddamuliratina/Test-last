@@ -1,4 +1,4 @@
-function factorial(n) {
+export default function factorial(n) {
   if (n < 0) {
     throw new Error("Use Positive Number");
   } else if (typeof n !== "number") {
