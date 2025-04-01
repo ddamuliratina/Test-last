@@ -29,3 +29,18 @@ describe("Factorial Function", function () {
         expect(() => factorial(5.5)).to.throw("Factorial is only defined for integers");
     });
 });
+
+
+
+
+
+
+
+
+
+
+/*
+written by:
+Christina Ddamulira
+Kambere Gilbert Silver
+ */

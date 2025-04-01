@@ -17,3 +17,13 @@ export default function factorial(n) {
   return result;
 }
 
+}
+
+
+
+
+/*
+written by:
+Christina Ddamulira
+Kambere Gilbert Silver
+ */
